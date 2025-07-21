@@ -236,7 +236,7 @@ Removes `dist/` directory.
 
 ## 👨‍💻 Author
 
-Made with 💙 by [Krupa](https://https://github.com/Krupa2205)
+---  
+💻👩‍💻 Built with breaks + bugs 😅 by [Krupa](https://github.com/Krupa2205) 🚀✨
 
-````
 
