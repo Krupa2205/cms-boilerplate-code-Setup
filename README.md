@@ -1,7 +1,5 @@
 # cms-boilerplate-code-Setup
 
-Absolutely! Here's a **complete and well-structured `README.md`** file you can use for your **Strapi + TypeScript boilerplate** setup. I've included:
-
 * ✅ Step-by-step instructions
 * ✅ All necessary commands & code
 * ✅ Project scripts
