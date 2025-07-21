@@ -185,27 +185,6 @@ This runs:
 
 ---
 
-## 📷 Adding Images to README
-
-To add screenshots or diagrams to this file:
-
-### Step 1: Create a `docs` or `assets` folder in your project.
-
-```
-cms-boilerplate/
-└── docs/
-    └── screenshot1.png
-```
-
-### Step 2: Use Markdown syntax:
-
-```markdown
-![Homepage Screenshot](./docs/screenshot1.png)
-```
-
-> 💡 GitHub will render it automatically once pushed.
-
----
 
 ## ✅ Optional: Clean the Build
 
