@@ -19,8 +19,7 @@ This project sets up a **minimal and clean Strapi CMS** with full **TypeScript**
 
 ## 📁 Project Structure
 
-```
-
+```bash
 cms-boilerplate/
 ├── src/
 │   ├── api/
@@ -34,7 +33,6 @@ cms-boilerplate/
 ├── .strapi/
 └── ...
 
-````
 
 ---
 
