@@ -154,6 +154,10 @@ yarn add -D concurrently
 
 ### ✅ Step 7: Create a Minimal TypeScript Controller
 
+The example.ts was just a scaffolding demo from Strapi's template
+Real projects should remove unused example files
+Your blog.ts controller already implements all needed methods
+
 📄 `src/api/example/controllers/example.ts`
 
 ```ts
