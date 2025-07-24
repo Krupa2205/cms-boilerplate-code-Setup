@@ -54,6 +54,18 @@ cms-boilerplate/
 yarn create strapi-app cms-boilerplate --quickstart --no-run
 ````
 
+````
+If you encounter a Node.js version error, please note that Strapi v5 supports only Node.js versions 22 and 20.
+To install the latest Strapi, run the following command:
+
+````
+````bash
+
+yarn create strapi cms-boilerplate --quickstart --no-run
+
+````
+
+
 When prompted:
 
 * ❌ Skip login/signup.
